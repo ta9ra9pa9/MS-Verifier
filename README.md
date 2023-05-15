@@ -5,7 +5,7 @@
 
 ![](https://raw.githubusercontent.com/ta9ra9pa9/MS-Verifier/main/logo_MS_V.png)
 
-### Informations
+## Informations
 
 A thorough tool created specifically to validate and verify email addresses within the Microsoft ecosystem is the Office Email Verifier. It offers a practical method for guaranteeing the precision and caliber of email communications thanks to a variety of features and capabilities.
 
@@ -24,6 +24,7 @@ A thorough tool created specifically to validate and verify email addresses with
 ## Detailed Verification Results:
  Each email address's verification results from the Office Email Verifier are in-depth. It provides more details about the email owner in addition to confirming the presence and legitimacy of the email account. This contains information related to the email address, such as the display name, contact information, work title, and other pertinent information. With the help of these thorough results, you can gain insightful knowledge about your email contacts and efficiently customize your communication tactics.
 
+##
 The Office Email Verifier provides a strong method for validating and verifying email addresses within the Microsoft ecosystem by including features like automatic addition of admin email addresses, duplicate removal, priority checking for Microsoft domains, exclusion of Hotmail and Live domains, and detailed verification results. It makes sure that your email contacts are accurate and of high quality, enabling you to interact with your audience more successfully and increase the success of your email communication initiatives.
 
 
